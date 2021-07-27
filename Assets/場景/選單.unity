@@ -401,8 +401,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -45.518, y: 179.36}
-  m_SizeDelta: {x: 801.7447, y: 240.1206}
+  m_AnchoredPosition: {x: -103.12, y: 193}
+  m_SizeDelta: {x: 1544.802, y: 240.1206}
   m_Pivot: {x: 0.4332483, y: 0.5}
 --- !u!114 &474046551
 MonoBehaviour:
@@ -426,7 +426,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: c378baadb4a71514f8f23701f98e6b1b, type: 3}
-    m_FontSize: 150
+    m_FontSize: 130
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -437,7 +437,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Zombie Kill
+  m_Text: Zombie Revolution
 --- !u!222 &474046552
 CanvasRenderer:
   m_ObjectHideFlags: 0
